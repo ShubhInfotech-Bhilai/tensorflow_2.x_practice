@@ -11,4 +11,4 @@
 - 05 - ANN Cat Recognition.
 - 06 - CNN LeNet Handwritten Digits Recognition.
 - 07 - CNN Hand Sign Recognition.
-- 08 - RNN Simple Sequence Prediction.
+- 08 - RNN Simple Demo.
